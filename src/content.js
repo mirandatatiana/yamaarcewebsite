@@ -35,7 +35,8 @@ export const STR = {
     errContact: 'Completa nombre, email y mensaje.', sentTitle: 'Gracias por escribir', sentMsg: 'Te responderé lo antes posible.',
     wsMsg: (w) => `Hola Yama, quiero reservar plaza en el taller «${w}».`,
     inPerson: 'Presencial', virtual: 'Virtual',
-    footerLine: 'Guía intuitiva · Tarot, Registros Akáshicos, Revolución Solar y Terapia Floral. Sesiones online.', explore: 'Explorar', madeWith: 'Hecho con calma' },
+    footerLine: 'Guía intuitiva · Tarot, Registros Akáshicos, Revolución Solar y Terapia Floral. Sesiones online.', explore: 'Explorar', madeWith: 'Hecho con calma',
+    rights: 'Todos los derechos reservados', backTop: 'Volver arriba', menu: 'Menú', closeMenu: 'Cerrar menú' },
   en: { nav: { home: 'Home', services: 'Services', book: 'Book', about: 'About', videos: 'Videos', workshops: 'Workshops', contact: 'Contact' },
     bookCta: 'Book a session', seeServices: 'See services',
     heroLine: 'Intuitive guidance to help you hear what you already know. Sessions to look inward with calm, clarity and care.',
@@ -68,7 +69,8 @@ export const STR = {
     errContact: 'Please fill in name, email and message.', sentTitle: 'Thank you for writing', sentMsg: "I'll get back to you as soon as I can.",
     wsMsg: (w) => `Hi Yama, I'd like to reserve a seat at the “${w}” workshop.`,
     inPerson: 'In person', virtual: 'Virtual',
-    footerLine: 'Intuitive guide · Tarot, Akashic Records, Solar Return and Floral Therapy. Online sessions.', explore: 'Explore', madeWith: 'Made slowly' },
+    footerLine: 'Intuitive guide · Tarot, Akashic Records, Solar Return and Floral Therapy. Online sessions.', explore: 'Explore', madeWith: 'Made slowly',
+    rights: 'All rights reserved', backTop: 'Back to top', menu: 'Menu', closeMenu: 'Close menu' },
 };
 
 export const SERVICES = [
